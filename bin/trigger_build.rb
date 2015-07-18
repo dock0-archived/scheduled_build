@@ -15,6 +15,7 @@ end
 PAYLOAD = {'build' => true}
 
 LIST.map { |x| x.split(':') }.each do |repo, token|
+  puts "Triggering build for #{repo}"
   repo_url = URL % [repo, token]
   CLIENT.url = repo_url
   CLIENT.http_post(PAYLOAD)
