@@ -22,7 +22,7 @@ Triggering build for dock0/arch
 Triggering build for dock0/other_image
 ```
 
-I run this using a Heroku dyno and the free Process Scheduler.
+I run this using a Heroku dyno and the free Heroku Scheduler.
 
 ## License
 
