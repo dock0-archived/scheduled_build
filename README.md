@@ -1,6 +1,7 @@
 scheduled\_build
 =======
 
+[![Dependency Status](https://img.shields.io/gemnasium/dock0/scheduled_build.svg)](https://gemnasium.com/dock0/scheduled_build)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 Lightweight scripts to trigger builds of my Automated Builds on Docker Hub
