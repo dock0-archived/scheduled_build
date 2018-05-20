@@ -3,4 +3,4 @@ dependencies:
   - gem install rubocop
 test:
   override:
-  - rubocop
+  - rubocop --except Style/FrozenStringLiteralComment
