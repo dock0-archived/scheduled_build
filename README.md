@@ -1,3 +1,5 @@
+**Deprecation Notice:** I've replaced this project with an AWS Lambda
+
 scheduled\_build
 =======
 
